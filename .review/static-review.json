@@ -1,0 +1,24 @@
+{
+  "generator": "repository-static-triage",
+  "version": "1.0",
+  "repository": "vikasdotvivek/awesome-system-design-resources",
+  "revision": "77dcb9ffc58f75bf5553a869372f3df845ebf39f",
+  "tracked_files": 2,
+  "scanned": [],
+  "skipped": [
+    {
+      "path": ".github/workflows/code-improvement-review.yml",
+      "reason": "non-source format; content not audited"
+    },
+    {
+      "path": "README.md",
+      "reason": "non-source format; content not audited"
+    }
+  ],
+  "manifests": [],
+  "conventional_test_paths": [],
+  "findings": [],
+  "total_findings": 0,
+  "findings_omitted": 0,
+  "execution": "No repository code, tests, builds or hardware were executed."
+}
