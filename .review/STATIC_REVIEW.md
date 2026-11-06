@@ -3,9 +3,9 @@
 **Automated first pass, not a complete manual code audit or a safety certification.**
 
 Repository: `vikasdotvivek/awesome-system-design-resources`
-Snapshot: `77dcb9ffc58f75bf5553a869372f3df845ebf39f`
+Snapshot: `e2e2349779d9788917b1b97b4edc86b942e62217`
 
-- Tracked paths: 2; source files inspected: 0.
+- Tracked paths: 5; source files inspected: 0.
 - Findings: 0; retained: 0; omitted by cap: 0.
 - Priority counts in retained findings: {}.
 - No repository code, tests, builds or hardware were executed.
